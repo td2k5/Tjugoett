@@ -1,0 +1,10 @@
+# Build files
+bin/
+obj/
+
+# Saved player data
+players.json
+players-backup.json
+
+# Visual Studio Code
+.vscode/
