@@ -38,7 +38,7 @@ Spelarna tävlar mot givaren.
 
 ## Så startar du spelet
 
-1. Klona repositoryt från GitHub.
+1. Klona repository från GitHub.
 2. Öppna projektmappen i Visual Studio Code.
 3. Öppna terminalen.
 4. Kör följande kommando:
